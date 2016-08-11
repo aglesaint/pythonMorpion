@@ -3,8 +3,8 @@
 first release, 
 gamer against computer. 
 
-combination of 8 rules to win :
-==
+combination of **8 rules** to win :
+===================================
  3 verticals
  3 horizontals
  2 diagonals
@@ -19,7 +19,7 @@ combination of 8 rules to win :
     d8 = {'a7': dict['a7'], 'b5': dict['b5'], 'c3': dict['c3']}
 
 matrix like this :
-==
+===================================
 
 | - a - b - c -
 | a1 | b2 | c3 |
