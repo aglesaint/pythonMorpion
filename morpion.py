@@ -19,7 +19,7 @@ def result(dict):
 # @Return le choix a1, b2, c3 ....
 def IA(dict, pionOrdi, pion, nbPionOnLine):
 
-    # les 8 combinaisons gagnates
+    # les 8 combinaisons gagnantes
     d1 = {'a1': dict['a1'], 'b2': dict['b2'], 'c3': dict['c3']}
     d2 = {'a4': dict['a4'], 'b5': dict['b5'], 'c6': dict['c6']}
     d3 = {'a7': dict['a7'], 'b8': dict['b8'], 'c9': dict['c9']}
