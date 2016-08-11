@@ -3,12 +3,10 @@
 first release, 
 gamer against computer. 
 
-combination of **8 rules** to win :
+combination of 8 rules to win :
 ===================================
- 3 verticals
- 3 horizontals
- 2 diagonals
-
+ 3 verticals - 3 horizontals - 2 diagonals
+ 
     d1 = {'a1': dict['a1'], 'b2': dict['b2'], 'c3': dict['c3']}
     d2 = {'a4': dict['a4'], 'b5': dict['b5'], 'c6': dict['c6']}
     d3 = {'a7': dict['a7'], 'b8': dict['b8'], 'c9': dict['c9']}
