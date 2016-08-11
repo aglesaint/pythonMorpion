@@ -5,6 +5,7 @@ gamer against computer.
 
 matrix like this :
 
+
  - a - b - c -
 | a1 | b2 | c3 |
 ----------------
@@ -12,3 +13,6 @@ matrix like this :
 ----------------
 | a7 | b8 | c9 |
 ----------------
+
+
+
