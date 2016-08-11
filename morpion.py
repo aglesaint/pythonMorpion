@@ -181,13 +181,9 @@ def testSiGagne(dict, pion, nbPionOnLine):
             cptpion += 1
 
     for key, value in dict.items():
-        if cptpion == 2:
-            print("dict : " + str(dict) + "ICI : " + str(cptpion) + ", " + pion)
         if value == " " and cptpion == nbPionOnLine:
             pos = key
 
-    if pos != "vide":
-        print("pos " + pos)
     return pos
 
 # on teste le coup et on affiche le resultat si gagant
