@@ -1,8 +1,5 @@
 11 August, 2016
 
-first release, 
-gamer against computer. 
-
 combination of 8 rules to win :
 ===================================
  3 verticals - 3 horizontals - 2 diagonals
